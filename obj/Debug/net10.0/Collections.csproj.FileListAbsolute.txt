@@ -1,0 +1,14 @@
+D:\source\Collections\Collections\bin\Debug\net10.0\Collections.exe
+D:\source\Collections\Collections\bin\Debug\net10.0\Collections.deps.json
+D:\source\Collections\Collections\bin\Debug\net10.0\Collections.runtimeconfig.json
+D:\source\Collections\Collections\bin\Debug\net10.0\Collections.dll
+D:\source\Collections\Collections\bin\Debug\net10.0\Collections.pdb
+D:\source\Collections\Collections\obj\Debug\net10.0\Collections.GeneratedMSBuildEditorConfig.editorconfig
+D:\source\Collections\Collections\obj\Debug\net10.0\Collections.AssemblyInfoInputs.cache
+D:\source\Collections\Collections\obj\Debug\net10.0\Collections.AssemblyInfo.cs
+D:\source\Collections\Collections\obj\Debug\net10.0\Collections.csproj.CoreCompileInputs.cache
+D:\source\Collections\Collections\obj\Debug\net10.0\Collections.dll
+D:\source\Collections\Collections\obj\Debug\net10.0\refint\Collections.dll
+D:\source\Collections\Collections\obj\Debug\net10.0\Collections.pdb
+D:\source\Collections\Collections\obj\Debug\net10.0\Collections.genruntimeconfig.cache
+D:\source\Collections\Collections\obj\Debug\net10.0\ref\Collections.dll
