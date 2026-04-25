@@ -8,13 +8,6 @@
             list.Add("Umamu");
             list.Add("Cortisol");
             list.Add("FutanariSasuke");
-            list.Add("Umamu");
-            list.Add("Umamu");
-            list.Add("Umamu");
-            list.Add("Umamu");
-            list.Add("Umamu");
-            list.Add("Umamu");
-
             foreach (var name in list)
             {
                 Console.WriteLine(name);
