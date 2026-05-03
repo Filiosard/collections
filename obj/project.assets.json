@@ -8,23 +8,23 @@
     "net10.0": []
   },
   "packageFolders": {
-    "C:\\Users\\laptop\\.nuget\\packages\\": {},
+    "C:\\Users\\hpdes\\.nuget\\packages\\": {},
     "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\laptop\\RiderProjects\\collections\\Collections.csproj",
+      "projectUniqueName": "D:\\source\\Collections\\Collections\\Collections.csproj",
       "projectName": "Collections",
-      "projectPath": "C:\\Users\\laptop\\RiderProjects\\collections\\Collections.csproj",
-      "packagesPath": "C:\\Users\\laptop\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\laptop\\RiderProjects\\collections\\obj\\",
+      "projectPath": "D:\\source\\Collections\\Collections\\Collections.csproj",
+      "packagesPath": "C:\\Users\\hpdes\\.nuget\\packages\\",
+      "outputPath": "D:\\source\\Collections\\Collections\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
       ],
       "configFilePaths": [
-        "C:\\Users\\laptop\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\hpdes\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
@@ -72,7 +72,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\10.0.102/PortableRuntimeIdentifierGraph.json",
+        "runtimeIdentifierGraphPath": "C:\\Users\\hpdes\\.dotnet\\sdk\\10.0.100/PortableRuntimeIdentifierGraph.json",
         "packagesToPrune": {
           "Microsoft.CSharp": "(,4.7.32767]",
           "Microsoft.VisualBasic": "(,10.4.32767]",
